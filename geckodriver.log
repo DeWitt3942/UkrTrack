@@ -1,0 +1,225 @@
+1504717004991	geckodriver	INFO	Listening on 127.0.0.1:44422
+1504717005946	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.Tba4sNtHTOFn
+1504717005947	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1504717005963	geckodriver::marionette	INFO	Connecting to Marionette on localhost:44068
+1504717010105	Marionette	INFO	Enabled via --marionette
+1504717018796	Marionette	INFO	Listening on port 44068
+1504717018871	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1504717019445	Marionette	DEBUG	loaded listener.js
+1504717019680	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1504717020467	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1504717020468	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1504717022352	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://services.ukrposhta.ua/bardcodesingle/"
+1504717024676	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://services.ukrposhta.ua/bardcodesingle/"
+1504717024705	Marionette	DEBUG	Received DOM event "pageshow" for "http://services.ukrposhta.ua/bardcodesingle/"
+1504717024708	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://services.ukrposhta.ua/bardcodesingle/"
+1504717024718	Marionette	DEBUG	Received DOM event "pageshow" for "http://services.ukrposhta.ua/bardcodesingle/"
+1504717024720	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://services.ukrposhta.ua/bardcodesingle/"
+1504717024729	Marionette	DEBUG	Received DOM event "pageshow" for "http://services.ukrposhta.ua/bardcodesingle/"
+1504717024732	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://services.ukrposhta.ua/bardcodesingle/"
+1504717024736	Marionette	DEBUG	Received DOM event "pageshow" for "http://services.ukrposhta.ua/bardcodesingle/"
+1504717024737	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://services.ukrposhta.ua/bardcodesingle/"
+1504717024742	Marionette	DEBUG	Received DOM event "pageshow" for "http://services.ukrposhta.ua/bardcodesingle/"
+1504717024746	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://services.ukrposhta.ua/bardcodesingle/"
+1504717024756	Marionette	DEBUG	Received DOM event "pageshow" for "http://services.ukrposhta.ua/bardcodesingle/"
+1504717024757	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://services.ukrposhta.ua/bardcodesingle/"
+1504717024761	Marionette	DEBUG	Received DOM event "pageshow" for "http://services.ukrposhta.ua/bardcodesingle/"
+1504717024764	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://services.ukrposhta.ua/bardcodesingle/"
+1504717024769	Marionette	DEBUG	Received DOM event "pageshow" for "http://services.ukrposhta.ua/bardcodesingle/"
+1504717024772	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://services.ukrposhta.ua/bardcodesingle/"
+1504717024776	Marionette	DEBUG	Received DOM event "pageshow" for "http://services.ukrposhta.ua/bardcodesingle/"
+1504717025864	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://services.ukrposhta.ua/bardcodesingle/"
+1504717025879	Marionette	DEBUG	Received DOM event "pageshow" for "http://services.ukrposhta.ua/bardcodesingle/"
+1504717026399	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://services.ukrposhta.ua/bardcodesingle/"
+1504717026620	Marionette	DEBUG	Received DOM event "pageshow" for "http://services.ukrposhta.ua/bardcodesingle/"
+1504717026645	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://services.ukrposhta.ua/bardcodesingle/"
+1504717026667	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://services.ukrposhta.ua/bardcodesingle/"
+1504717026684	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://services.ukrposhta.ua/bardcodesingle/"
+1504717026695	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://services.ukrposhta.ua/bardcodesingle/"
+1504717026707	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://services.ukrposhta.ua/bardcodesingle/"
+1504717026718	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://services.ukrposhta.ua/bardcodesingle/"
+1504717026732	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://services.ukrposhta.ua/bardcodesingle/"
+1504717026750	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://services.ukrposhta.ua/bardcodesingle/"
+1504717026779	Marionette	DEBUG	Received DOM event "pageshow" for "http://services.ukrposhta.ua/bardcodesingle/"
+1504717026803	Marionette	DEBUG	Received DOM event "pageshow" for "http://services.ukrposhta.ua/bardcodesingle/"
+1504717026835	Marionette	DEBUG	Received DOM event "pageshow" for "http://services.ukrposhta.ua/bardcodesingle/"
+1504717026866	Marionette	DEBUG	Received DOM event "pageshow" for "http://services.ukrposhta.ua/bardcodesingle/"
+1504717026894	Marionette	DEBUG	Received DOM event "pageshow" for "http://services.ukrposhta.ua/bardcodesingle/"
+1504717026909	Marionette	DEBUG	Received DOM event "pageshow" for "http://services.ukrposhta.ua/bardcodesingle/"
+1504717026924	Marionette	DEBUG	Received DOM event "pageshow" for "http://services.ukrposhta.ua/bardcodesingle/"
+1504717026940	Marionette	DEBUG	Received DOM event "pageshow" for "http://services.ukrposhta.ua/bardcodesingle/"
+1504717026962	Marionette	DEBUG	Received DOM event "pageshow" for "http://services.ukrposhta.ua/bardcodesingle/"
+1504717048239	Marionette	DEBUG	loaded listener.js
+1504717091446	geckodriver	INFO	Listening on 127.0.0.1:33807
+1504717092265	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.PNYSBfBHp5Zq
+1504717092266	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1504717092353	geckodriver::marionette	INFO	Connecting to Marionette on localhost:37661
+1504717096633	Marionette	INFO	Enabled via --marionette
+1504717110965	Marionette	INFO	Listening on port 37661
+1504717111108	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1504717114893	Marionette	DEBUG	loaded listener.js
+1504717115402	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1504717115638	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1504717115639	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1504717119724	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://services.ukrposhta.ua/bardcodesingle/"
+1504717120423	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://services.ukrposhta.ua/bardcodesingle/"
+1504717120519	Marionette	DEBUG	Received DOM event "pageshow" for "http://services.ukrposhta.ua/bardcodesingle/"
+1504717120599	Marionette	DEBUG	Received DOM event "pageshow" for "http://services.ukrposhta.ua/bardcodesingle/"
+1504717120637	Marionette	DEBUG	Received DOM event "pageshow" for "http://services.ukrposhta.ua/bardcodesingle/"
+1504717120668	Marionette	DEBUG	Received DOM event "pageshow" for "http://services.ukrposhta.ua/bardcodesingle/"
+1504717120703	Marionette	DEBUG	Received DOM event "pageshow" for "http://services.ukrposhta.ua/bardcodesingle/"
+1504717120739	Marionette	DEBUG	Received DOM event "pageshow" for "http://services.ukrposhta.ua/bardcodesingle/"
+1504717120768	Marionette	DEBUG	Received DOM event "pageshow" for "http://services.ukrposhta.ua/bardcodesingle/"
+1504717120799	Marionette	DEBUG	Received DOM event "pageshow" for "http://services.ukrposhta.ua/bardcodesingle/"
+1504717120829	Marionette	DEBUG	Received DOM event "pageshow" for "http://services.ukrposhta.ua/bardcodesingle/"
+1504717120861	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://services.ukrposhta.ua/bardcodesingle/"
+1504717120862	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://services.ukrposhta.ua/bardcodesingle/"
+1504717120864	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://services.ukrposhta.ua/bardcodesingle/"
+1504717120865	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://services.ukrposhta.ua/bardcodesingle/"
+1504717120867	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://services.ukrposhta.ua/bardcodesingle/"
+1504717120869	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://services.ukrposhta.ua/bardcodesingle/"
+1504717120871	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://services.ukrposhta.ua/bardcodesingle/"
+1504717120874	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://services.ukrposhta.ua/bardcodesingle/"
+1504717121275	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://services.ukrposhta.ua/bardcodesingle/"
+1504717121323	Marionette	DEBUG	Received DOM event "pageshow" for "http://services.ukrposhta.ua/bardcodesingle/"
+1504717121716	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://services.ukrposhta.ua/bardcodesingle/"
+1504717121757	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://services.ukrposhta.ua/bardcodesingle/"
+1504717121823	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://services.ukrposhta.ua/bardcodesingle/"
+1504717121873	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://services.ukrposhta.ua/bardcodesingle/"
+1504717121896	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://services.ukrposhta.ua/bardcodesingle/"
+1504717121909	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://services.ukrposhta.ua/bardcodesingle/"
+1504717121921	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://services.ukrposhta.ua/bardcodesingle/"
+1504717121936	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://services.ukrposhta.ua/bardcodesingle/"
+1504717121967	Marionette	DEBUG	Received DOM event "pageshow" for "http://services.ukrposhta.ua/bardcodesingle/"
+1504717121986	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://services.ukrposhta.ua/bardcodesingle/"
+1504717122008	Marionette	DEBUG	Received DOM event "pageshow" for "http://services.ukrposhta.ua/bardcodesingle/"
+1504717122065	Marionette	DEBUG	Received DOM event "pageshow" for "http://services.ukrposhta.ua/bardcodesingle/"
+1504717122111	Marionette	DEBUG	Received DOM event "pageshow" for "http://services.ukrposhta.ua/bardcodesingle/"
+1504717122147	Marionette	DEBUG	Received DOM event "pageshow" for "http://services.ukrposhta.ua/bardcodesingle/"
+1504717122189	Marionette	DEBUG	Received DOM event "pageshow" for "http://services.ukrposhta.ua/bardcodesingle/"
+1504717122210	Marionette	DEBUG	Received DOM event "pageshow" for "http://services.ukrposhta.ua/bardcodesingle/"
+1504717122339	Marionette	DEBUG	Received DOM event "pageshow" for "http://services.ukrposhta.ua/bardcodesingle/"
+1504717122379	Marionette	DEBUG	Received DOM event "pageshow" for "http://services.ukrposhta.ua/bardcodesingle/"
+1504717122408	Marionette	DEBUG	Received DOM event "pageshow" for "http://services.ukrposhta.ua/bardcodesingle/"
+1504717179526	geckodriver	INFO	Listening on 127.0.0.1:45070
+1504717180554	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.kN42EvAx2Pj9
+1504717180555	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1504717180627	geckodriver::marionette	INFO	Connecting to Marionette on localhost:39880
+1504717186245	Marionette	INFO	Enabled via --marionette
+1504717201191	Marionette	INFO	Listening on port 39880
+1504717201377	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1504717201585	Marionette	DEBUG	loaded listener.js
+1504717201994	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1504717202227	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1504717202228	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1504717203166	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://services.ukrposhta.ua/bardcodesingle/"
+1504717206091	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://services.ukrposhta.ua/bardcodesingle/"
+1504717206114	Marionette	DEBUG	Received DOM event "pageshow" for "http://services.ukrposhta.ua/bardcodesingle/"
+1504717206116	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://services.ukrposhta.ua/bardcodesingle/"
+1504717206121	Marionette	DEBUG	Received DOM event "pageshow" for "http://services.ukrposhta.ua/bardcodesingle/"
+1504717206122	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://services.ukrposhta.ua/bardcodesingle/"
+1504717206132	Marionette	DEBUG	Received DOM event "pageshow" for "http://services.ukrposhta.ua/bardcodesingle/"
+1504717206137	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://services.ukrposhta.ua/bardcodesingle/"
+1504717206146	Marionette	DEBUG	Received DOM event "pageshow" for "http://services.ukrposhta.ua/bardcodesingle/"
+1504717206167	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://services.ukrposhta.ua/bardcodesingle/"
+1504717206185	Marionette	DEBUG	Received DOM event "pageshow" for "http://services.ukrposhta.ua/bardcodesingle/"
+1504717206188	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://services.ukrposhta.ua/bardcodesingle/"
+1504717206197	Marionette	DEBUG	Received DOM event "pageshow" for "http://services.ukrposhta.ua/bardcodesingle/"
+1504717206202	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://services.ukrposhta.ua/bardcodesingle/"
+1504717206215	Marionette	DEBUG	Received DOM event "pageshow" for "http://services.ukrposhta.ua/bardcodesingle/"
+1504717206218	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://services.ukrposhta.ua/bardcodesingle/"
+1504717206236	Marionette	DEBUG	Received DOM event "pageshow" for "http://services.ukrposhta.ua/bardcodesingle/"
+1504717206243	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://services.ukrposhta.ua/bardcodesingle/"
+1504717206250	Marionette	DEBUG	Received DOM event "pageshow" for "http://services.ukrposhta.ua/bardcodesingle/"
+1504717207501	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://services.ukrposhta.ua/bardcodesingle/"
+1504717207519	Marionette	DEBUG	Received DOM event "pageshow" for "http://services.ukrposhta.ua/bardcodesingle/"
+1504717208049	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://services.ukrposhta.ua/bardcodesingle/"
+1504717208318	Marionette	DEBUG	Received DOM event "pageshow" for "http://services.ukrposhta.ua/bardcodesingle/"
+1504717208335	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://services.ukrposhta.ua/bardcodesingle/"
+1504717208360	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://services.ukrposhta.ua/bardcodesingle/"
+1504717208394	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://services.ukrposhta.ua/bardcodesingle/"
+1504717208407	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://services.ukrposhta.ua/bardcodesingle/"
+1504717208427	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://services.ukrposhta.ua/bardcodesingle/"
+1504717208452	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://services.ukrposhta.ua/bardcodesingle/"
+1504717208506	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://services.ukrposhta.ua/bardcodesingle/"
+1504717208527	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://services.ukrposhta.ua/bardcodesingle/"
+1504717208618	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1504717208620	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483654"
+1504717208621	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483655"
+1504717208622	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1504717208623	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1504717208625	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483658"
+1504717208626	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1504717208628	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483660"
+1504717208629	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483661"
+1504717208631	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483680"
+1504717208635	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483649"
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 27853] WARNING: pipe error (3): Соединение разорвано другой стороной: file /build/firefox-S0wyi8/firefox-55.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1504717254439	Marionette	DEBUG	loaded listener.js
+1504717289943	Marionette	DEBUG	loaded listener.js
+1504725953025	geckodriver	INFO	Listening on 127.0.0.1:33451
+1504725954020	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.VuIweE8D0qBn
+1504725954022	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1504725954076	geckodriver::marionette	INFO	Connecting to Marionette on localhost:40948
+Error: GDK_BACKEND does not match available displays
+1504725966028	geckodriver	INFO	Listening on 127.0.0.1:50049
+1504725967015	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.MBJtAe0WrOhb
+1504725967016	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1504725967025	geckodriver::marionette	INFO	Connecting to Marionette on localhost:36873
+Error: GDK_BACKEND does not match available displays
+1504726007213	geckodriver	INFO	Listening on 127.0.0.1:42382
+1504726008173	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.6onN5x0C430V
+1504726008174	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1504726008211	geckodriver::marionette	INFO	Connecting to Marionette on localhost:36891
+1504726016249	Marionette	INFO	Enabled via --marionette
+1504726030836	Marionette	INFO	Listening on port 36891
+1504726030949	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1504726033663	Marionette	DEBUG	loaded listener.js
+1504726034482	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1504726034717	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1504726034718	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1504726036954	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://services.ukrposhta.ua/bardcodesingle/"
+1504726037971	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://services.ukrposhta.ua/bardcodesingle/"
+1504726038009	Marionette	DEBUG	Received DOM event "pageshow" for "http://services.ukrposhta.ua/bardcodesingle/"
+1504726038024	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://services.ukrposhta.ua/bardcodesingle/"
+1504726038031	Marionette	DEBUG	Received DOM event "pageshow" for "http://services.ukrposhta.ua/bardcodesingle/"
+1504726038033	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://services.ukrposhta.ua/bardcodesingle/"
+1504726038039	Marionette	DEBUG	Received DOM event "pageshow" for "http://services.ukrposhta.ua/bardcodesingle/"
+1504726038043	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://services.ukrposhta.ua/bardcodesingle/"
+1504726038046	Marionette	DEBUG	Received DOM event "pageshow" for "http://services.ukrposhta.ua/bardcodesingle/"
+1504726038048	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://services.ukrposhta.ua/bardcodesingle/"
+1504726038052	Marionette	DEBUG	Received DOM event "pageshow" for "http://services.ukrposhta.ua/bardcodesingle/"
+1504726038054	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://services.ukrposhta.ua/bardcodesingle/"
+1504726038075	Marionette	DEBUG	Received DOM event "pageshow" for "http://services.ukrposhta.ua/bardcodesingle/"
+1504726038076	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://services.ukrposhta.ua/bardcodesingle/"
+1504726038099	Marionette	DEBUG	Received DOM event "pageshow" for "http://services.ukrposhta.ua/bardcodesingle/"
+1504726038100	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://services.ukrposhta.ua/bardcodesingle/"
+1504726038125	Marionette	DEBUG	Received DOM event "pageshow" for "http://services.ukrposhta.ua/bardcodesingle/"
+1504726038132	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://services.ukrposhta.ua/bardcodesingle/"
+1504726038139	Marionette	DEBUG	Received DOM event "pageshow" for "http://services.ukrposhta.ua/bardcodesingle/"
+1504726038824	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://services.ukrposhta.ua/bardcodesingle/"
+1504726038842	Marionette	DEBUG	Received DOM event "pageshow" for "http://services.ukrposhta.ua/bardcodesingle/"
+1504726039472	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://services.ukrposhta.ua/bardcodesingle/"
+1504726039514	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://services.ukrposhta.ua/bardcodesingle/"
+1504726039524	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://services.ukrposhta.ua/bardcodesingle/"
+1504726039561	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://services.ukrposhta.ua/bardcodesingle/"
+1504726039572	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://services.ukrposhta.ua/bardcodesingle/"
+1504726039586	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://services.ukrposhta.ua/bardcodesingle/"
+1504726039591	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://services.ukrposhta.ua/bardcodesingle/"
+1504726039620	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://services.ukrposhta.ua/bardcodesingle/"
+1504726039624	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://services.ukrposhta.ua/bardcodesingle/"
+1504726039648	Marionette	DEBUG	Received DOM event "pageshow" for "http://services.ukrposhta.ua/bardcodesingle/"
+1504726039659	Marionette	DEBUG	Received DOM event "pageshow" for "http://services.ukrposhta.ua/bardcodesingle/"
+1504726039671	Marionette	DEBUG	Received DOM event "pageshow" for "http://services.ukrposhta.ua/bardcodesingle/"
+1504726039724	Marionette	DEBUG	Received DOM event "pageshow" for "http://services.ukrposhta.ua/bardcodesingle/"
+1504726039737	Marionette	DEBUG	Received DOM event "pageshow" for "http://services.ukrposhta.ua/bardcodesingle/"
+1504726039753	Marionette	DEBUG	Received DOM event "pageshow" for "http://services.ukrposhta.ua/bardcodesingle/"
+1504726039775	Marionette	DEBUG	Received DOM event "pageshow" for "http://services.ukrposhta.ua/bardcodesingle/"
+1504726039793	Marionette	DEBUG	Received DOM event "pageshow" for "http://services.ukrposhta.ua/bardcodesingle/"
+1504726039821	Marionette	DEBUG	Received DOM event "pageshow" for "http://services.ukrposhta.ua/bardcodesingle/"
+1504726039862	Marionette	DEBUG	Received DOM event "pageshow" for "http://services.ukrposhta.ua/bardcodesingle/"
