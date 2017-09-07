@@ -13,7 +13,12 @@
 <body>
 <div id="wrapper">
 <?php require 'bloks/header.php'; ?>
+<?php $service = $_GET['service'];
+	require 'sandbox.php';
+		$id = $_GET['id'];
 
+
+?>
 
  <div class="content"> 
 	<form action="#" type="get">
@@ -28,36 +33,33 @@
 	</form>
 
 	<div class="result">
-		
+
+		<?php 
+			if ($service == "ukrposhta"){
+			if ($id == '')		echo ''; 	else echo substr(run_ukrposhta($id), -1);}
+		?>
+		<?php 
+			if ($service == "novaposhta"){
+				$phone = $_GET['phone'];
+				echo send_nova_poshta($id, $phone)->{"Status"};
+			}
+		 ?>
+
+	
 	</div>
 
 
   </div>
+
+
+  
 <?php require 'bloks/footer.php'; ?>
+	
+	
 
+	
 	<script>
-		result = '<?php
-		error_reporting(0);
-	$service = $_GET['service'];
-	$id = $_GET['id'];
-	$phone = $_GET['phone'];
-	require 'sandbox.php';
-	switch ($service) {
-		case 'novaposhta':
-			echo send_nova_poshta($id, $phone)->{"Status"};
-			break;
-		
-		case 'ukrposhta':
-			echo run_ukrposhta($document_id);
-			break;
-		default:
-			//echo "YOU ARE A DUMBASS";
-			# code...
-			break;
-	}
-
-
-	?>';
-	$(".result").text(result);
+	
+	
 	</script>
 		

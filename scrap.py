@@ -1,3 +1,4 @@
+import sys
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 from selenium.common.exceptions import TimeoutException
@@ -16,6 +17,8 @@ input_file = open('data.tx','r')
 output_file = open('data.out', 'w')
 text = input_file.read()
 driver = webdriver.Chrome()
+
+wait = WebDriverWait(driver, 5);
 driver.get("http://services.ukrposhta.ua/bardcodesingle/")
 elem = driver.find_element_by_xpath('//*[@id="ctl00_centerContent_txtBarcode"]')
 url0 = driver.current_url
@@ -24,12 +27,18 @@ elem.send_keys(text)
 button = driver.find_element_by_xpath('//*[@id="ctl00_centerContent_btnFindBarcodeInfo"]')
 button.click()
 timeout = 5
+try:
+	try:
+			alert = driver.switch_to_alert()
+			alert.accept()
+	except:
+		pass
 
-while driver.current_url == url0:
-	WebDriverWait(driver, timeout)
-text = driver.find_element_by_xpath('//*[@id="ctl00_centerContent_divInfo"]')
+	#wait.until(EC.alert_is_present());
+	while driver.current_url == url0:
+		WebDriverWait(driver, timeout)
+	text = driver.find_element_by_xpath('//*[@id="ctl00_centerContent_divInfo"]')
 
-#output_file.write(text.text)
-print(	write_unicode(text.text))
-#print('ye')
-driver.close()
+	print(	write_unicode(text.text))
+finally:
+	driver.close()
