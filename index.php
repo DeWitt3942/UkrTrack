@@ -32,8 +32,7 @@
 
 	</form>
 
-	<div class="result">
-
+	<div class="result container">
 		<?php 
 			if ($service == "ukrposhta"){
 			if ($id == '')		echo ''; 	else echo substr(run_ukrposhta($id), -1);}
